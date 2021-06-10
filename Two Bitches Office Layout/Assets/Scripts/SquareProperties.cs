@@ -9,6 +9,7 @@ public class SquareProperties : MonoBehaviour
     public int groupSizeY = 0;
     public int startX = -1;
     public int startY = -1;
+    public string direction, type;
 
 
     
